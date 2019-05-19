@@ -1,2 +1,3 @@
-# c8y_hw_microservice_python
-Cumulocity IoT - Microservice example developed using Python and Docker
+# Hello World of Cumulocity Microservices
+
+Cumulocity microservice example developed using Python and Docker.
