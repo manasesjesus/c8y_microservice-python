@@ -7,7 +7,7 @@ Cumulocity microservice example developed using Python and Docker.
 - Local Docker installation
 - An account on [cumulocity.com](https://cumulocity.com). Create a free trial to test this example.
 
-### Build
+### Build
 
 Execute the following commands to build the Docker image and save it as *image.tar*:
 
@@ -24,7 +24,7 @@ $ zip python-microservice cumulocity.json image.tar
 
 The resulting *python-microservice.zip* file contains the microservice and it is ready to be uploaded to the Cumulocity platform.
 
-### Deployment
+### Deployment
 
 Deploy the microservice application (refer to [Adding own applications](https://cumulocity.com/guides/users-guide/administration/#a-name-adding-applications-a-adding-own-applications) in the Cumulocity's User guide) and subscribe it afterwards.
 
