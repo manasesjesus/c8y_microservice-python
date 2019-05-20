@@ -24,7 +24,6 @@ $ zip python-microservice cumulocity.json image.tar
 
 The resulting *python-microservice.zip* file contains the microservice and it is ready to be uploaded to the Cumulocity platform.
 
-
 ### Deployment
 
 Deploy the microservice application (refer to [Adding own applications](https://cumulocity.com/guides/users-guide/administration/#a-name-adding-applications-a-adding-own-applications) in the Cumulocity's User guide) and subscribe it afterwards.
