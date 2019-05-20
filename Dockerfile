@@ -1,8 +1,7 @@
 FROM python:alpine3.6
 
-COPY . /app
-WORKDIR /app
-RUN pip install -r requirements
+ADD application.py /
+RUN pip install flask
 
 ENTRYPOINT ["python"]
 CMD ["application.py"]
