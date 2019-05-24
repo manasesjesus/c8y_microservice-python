@@ -1,6 +1,7 @@
 # Hello World of Cumulocity Microservices
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/43b50d865e48495996ee831f27459823)](https://app.codacy.com/app/manasesjesus/c8y_hw_microservice_python?utm_source=github.com&utm_medium=referral&utm_content=manasesjesus/c8y_hw_microservice_python&utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/43b50d865e48495996ee831f27459823)](https://app.codacy.com/app/manasesjesus/c8y_hw_microservice_python?utm_source=github.com&utm_medium=referral&utm_content=manasesjesus/c8y_hw_microservice_python&utm_campaign=Badge_Grade_Dashboard)
 
 Cumulocity microservice example developed using Python and Docker.
 
