@@ -1,7 +1,7 @@
 FROM python:alpine3.6
 
-ADD application.py /
-RUN pip install flask
+COPY application.py /
+RUN pip install flask==0.10.1
 
 ENTRYPOINT ["python"]
 CMD ["application.py"]
