@@ -4,8 +4,8 @@ Cumulocity microservice example developed using Python and Docker.
 
 ### Prerequisites
 
--   Local Docker installation
--   An account on [cumulocity.com](https://cumulocity.com). Create a free trial to test this example.
+*   Local Docker installation
+*   An account on [cumulocity.com](https://cumulocity.com). Create a free trial to test this example.
 
 ### Build
 
